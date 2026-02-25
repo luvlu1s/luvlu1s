@@ -6,5 +6,5 @@
     aws
     react/native
     javascript
-    mysql;/mongodb
+    mysql/mongodb
 ```
